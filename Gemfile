@@ -1,4 +1,5 @@
 source "https://rubygems.org"
 
-gem "jekyll"
-gem "bundler"
+gem "jekyll", "~> 4.0"
+gem "jekyll-theme-minimal"
+gem "bundler", "~> 2.1"
